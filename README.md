@@ -8,7 +8,18 @@ Each student works in a separate folder in this repository. The app lets student
 
 ## Sign in
 
-Select your name and enter the four-digit PIN provided by the coach.
+Select your name and enter the four-digit PIN.
+
+### Student PIN Codes
+
+| Student | PIN |
+| :------ | :-- |
+| Sven | `4827` |
+| Maksim | `6159` |
+| Kaiki | `3748` |
+| Greyson | `8264` |
+| Leo | `5391` |
+| Brandon | `2476` |
 
 ![Select a student](assets/screenshots/01-login-select-student.png)
 
