@@ -6,21 +6,6 @@ Each student works in a separate folder in this repository. The app lets student
 
 > This is a club project and is not affiliated with or endorsed by the LEGO Group.
 
-## Install the beta
-
-The app is distributed through Apple TestFlight:
-
-**[Join the LIC Robotics Sync beta](https://testflight.apple.com/join/qdSbFYcR)**
-
-On the iPad:
-
-1. Install **TestFlight** from the App Store.
-2. Open the beta link above in Safari.
-3. Tap **Accept**, then **Install**.
-4. Open **LIC Robotics Sync** from TestFlight or the Home Screen.
-
-If the link says that the beta is not accepting testers, the current build may still be waiting for Apple TestFlight review. Try the link again after the coach confirms that the build has been approved.
-
 ## Sign in
 
 Select your name and enter the four-digit PIN provided by the coach.
@@ -137,7 +122,5 @@ The SPIKE app may not automatically index files placed in another app's folder. 
 ## For coaches
 
 - Student project data is stored in `students/<student-name>/`.
-- TestFlight builds expire after 90 days and must be replaced with a newer build.
 - Distribute student PINs privately.
 - Review project changes on GitHub before restoring or deleting files manually.
-
